@@ -1,7 +1,4 @@
 - 👋 Hi, I’m @joetqt
-- 👀 I’m interested in data analytics and data science.
-- 🌱 I’m currently studying a Master's degree in Data Analytics.
-- 💞️ I’m looking to collaborate on data science/analytics projects.
 - 📫 Contact me: linkedin.com/in/joeqtang
 
 <!---
